@@ -12,5 +12,5 @@ Node | Express REST API.
 
 Without database persistence, just a basic CRUD.
 
-The the routes to Insomnia and adjuste de IP address.
+Import the routes into Insomnia and adjuste de IP address.
 
